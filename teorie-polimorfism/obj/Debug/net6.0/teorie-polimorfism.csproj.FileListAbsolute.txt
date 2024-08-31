@@ -1,0 +1,14 @@
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\bin\Debug\net6.0\teorie-polimorfism.exe
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\bin\Debug\net6.0\teorie-polimorfism.deps.json
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\bin\Debug\net6.0\teorie-polimorfism.runtimeconfig.json
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\bin\Debug\net6.0\teorie-polimorfism.dll
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\bin\Debug\net6.0\teorie-polimorfism.pdb
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\teorie-polimorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\teorie-polimorfism.AssemblyInfoInputs.cache
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\teorie-polimorfism.AssemblyInfo.cs
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\teorie-polimorfism.csproj.CoreCompileInputs.cache
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\teorie-polimorfism.dll
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\refint\teorie-polimorfism.dll
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\teorie-polimorfism.pdb
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\teorie-polimorfism.genruntimeconfig.cache
+C:\mycode\oop\mostenire\teorie-polimorfism\teorie-polimorfism\obj\Debug\net6.0\ref\teorie-polimorfism.dll
